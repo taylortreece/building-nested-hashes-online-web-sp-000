@@ -44,7 +44,7 @@ epic_tragedy = {
  }
 }
 
-return epic_tragedy[:montague][:hero][:status] = "dead"
-return epic_tragedy[:capulet][:heroine][:status] = "dead"
+epic_tragedy[:montague][:hero][:status] = "dead"
+epic_tragedy[:capulet][:heroine][:status] = "dead"
 
 puts epic_tragedy
