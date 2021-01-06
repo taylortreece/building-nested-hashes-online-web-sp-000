@@ -12,9 +12,6 @@ def third_challenge
       :heroine => {name: "Juliet", age: "15", status: "alive"},
       :heroine_friends => []
    }
-  }
+}
 
 end
-
-epic_tragedy[:montague][:hero][:status] = "dead"
-epic_tragedy[:capulet][:heroine][:status] = "dead"
